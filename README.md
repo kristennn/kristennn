@@ -1,9 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Kristen, a front-end developer 👨‍💻  at Beijing China, working since 2019 🚀</div>  
+### I'm Kristen, a front-end developer 👨‍💻  at Beijing China, working since 2019 🚀  
   
 
 - 🌱 I’m currently learning React and Typescript  
