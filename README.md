@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
-### I'm Kristen, a front-end developer 👨‍💻  at Beijing China, working since 2019 🚀  
+### I'm Kristen, a front-end developer 👩‍💻  at Beijing China, working since 2019 🚀  
   
 
 - 🌱 I’m currently learning React and Typescript  
